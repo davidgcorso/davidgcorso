@@ -11,4 +11,4 @@ Languages I have used
 
 Some of the technologies I have worked with
 
-Git GitHub VSCode Jira jQuery Node.js React Figma WordPress
+Git GitHub VSCode Jira jQuery React Figma WordPress
