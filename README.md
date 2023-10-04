@@ -7,8 +7,10 @@ Musician in my spare time and Front End Developer in constant learning. I consid
 
 Languages I have used
 
- HTML5 CSS JavaScript Python SQL 
+HTML5 CSS JavaScript Python SQL 
 
 Some of the technologies I have worked with
 
 Git GitHub VSCode Jira jQuery React Figma WordPress
+
+<a href="https://www.linkedin.com/in/davidgonzalezcorso/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
