@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A front end developer with knowledge in UX/UI design.</h3>
+<p align="center">A front end developer with knowledge in UX/UI design.</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/davidgcorso?tab=repositories](https://github.com/davidgcorso?tab=repositories)
 
