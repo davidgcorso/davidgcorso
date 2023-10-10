@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm David</h1>
-<p align="center">A front end developer with knowledge in UX/UI design.</p>
+<p align="center">A passionate front-end developer and musician. Specializing in technologies like HTML, CSS, and ReactJS, I create seamless user experiences with an eye for UX/UI design. Eager to collaborate, I bring a harmonious blend of creativity and technical skills to every project.</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/davidgcorso?tab=repositories](https://github.com/davidgcorso?tab=repositories)
 
